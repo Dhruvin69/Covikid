@@ -1,2 +1,2 @@
-# mproj1
-..
+# Covikid
+using html css and javascript
